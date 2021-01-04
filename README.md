@@ -8,6 +8,6 @@
 
 () parentheses
 
-![ดอกไม้](image.jpeg)
+![ดอกไม้(1)](image(1).jpeg)
 
 อธิบายการใช้งานของ Github และ Googol colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google colab
