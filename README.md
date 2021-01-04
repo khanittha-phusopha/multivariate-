@@ -10,6 +10,10 @@
 
 ![ดอกไม้(1)](image(1).jpeg)
 
+https://user-images.githubusercontent.com/76931211/103568155-a78f3100-4ef7-11eb-818b-bed2786b9854.MOV
+
+
+
 อธิบายการใช้งานของ Github และ Googol colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google colab
 
 GitHub คือ website Git (version control repository) ที่อยู่บน internet มีการทำงานแบบเดียวกับ Git  แต่สามารถเข้าถึงข้อมูลและจัดการผ่าน web โดยไม่ต้องเสียเงิน หรือลง server เพื่อติดตั้ง Git เอง แต่ code project ทั้งหมดจถูกแจกจ่ายให้คนอื่นๆสามารถเห็นได้ด้วย
